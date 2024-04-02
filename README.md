@@ -41,9 +41,9 @@
 
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
-[![Oleksii Vlasenko profile views](https://u8views.com/api/v1/github/profiles/103183090/views/day-week-month-total-count.svg)](https://u8views.com/github/Vlasvin)
-
-
 
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vlasvin&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Oleksii Vlasenko profile views](https://u8views.com/api/v1/github/profiles/103183090/views/day-week-month-total-count.svg)](https://u8views.com/github/Vlasvin)
