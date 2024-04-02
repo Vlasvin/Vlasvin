@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vlasvin)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vlasvin&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
