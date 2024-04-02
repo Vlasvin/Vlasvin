@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+**📲 Contacts:**
+
+- [Email](mailto:vlasvin@gmail.com@gmail.com) 📩
+- [LinkedIn](https://www.linkedin.com/in/oleksii-vlasenko/) 📌
+- [Telegram](https://t.me/vlasvin) 📞
+
+---
+
+
 [![Oleksii Vlasenko profile views](https://u8views.com/api/v1/github/profiles/103183090/views/day-week-month-total-count.svg)](https://u8views.com/github/Vlasvin)
 
 <!--
