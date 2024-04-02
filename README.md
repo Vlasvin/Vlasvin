@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+ I am Alex, a Frontend Developer. At the moment I am actively improving my development skills and perfecting my English.
+   Open to new offers.
+
 **📲 Contacts:**
 
 - [Email](mailto:vlasvin@gmail.com@gmail.com) 📩
